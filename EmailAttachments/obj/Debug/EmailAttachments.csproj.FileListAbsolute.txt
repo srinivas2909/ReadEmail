@@ -1,0 +1,8 @@
+C:\Users\Srinivas\Documents\GitHub\ReadEmail\EmailTest\EmailTest\EmailAttachments\obj\Debug\EmailAttachments.csprojAssemblyReference.cache
+C:\Users\Srinivas\Documents\GitHub\ReadEmail\EmailTest\EmailTest\EmailAttachments\obj\Debug\EmailAttachments.csproj.CoreCompileInputs.cache
+C:\Users\Srinivas\Documents\GitHub\ReadEmail\EmailTest\EmailTest\EmailAttachments\bin\Debug\EmailAttachments.exe.config
+C:\Users\Srinivas\Documents\GitHub\ReadEmail\EmailTest\EmailTest\EmailAttachments\bin\Debug\EmailAttachments.exe
+C:\Users\Srinivas\Documents\GitHub\ReadEmail\EmailTest\EmailTest\EmailAttachments\bin\Debug\EmailAttachments.pdb
+C:\Users\Srinivas\Documents\GitHub\ReadEmail\EmailTest\EmailTest\EmailAttachments\obj\Debug\EmailAttachments.csproj.ResolveComReference.cache
+C:\Users\Srinivas\Documents\GitHub\ReadEmail\EmailTest\EmailTest\EmailAttachments\obj\Debug\EmailAttachments.exe
+C:\Users\Srinivas\Documents\GitHub\ReadEmail\EmailTest\EmailTest\EmailAttachments\obj\Debug\EmailAttachments.pdb
